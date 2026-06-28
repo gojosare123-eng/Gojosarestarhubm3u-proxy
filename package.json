@@ -1,5 +1,5 @@
 {
-  "name": "Gojosarestarhubm3u-proxy",
+  "name": "starhubm3u-proxy",
   "type": "module",
   "dependencies": {
     "node-fetch": "^2.7.0"
