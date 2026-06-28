@@ -1,5 +1,5 @@
 {
-  "name": "m3u-proxy",
+  "name": "Gojosarestarhubm3u-proxy",
   "type": "module",
   "dependencies": {
     "node-fetch": "^2.7.0"
